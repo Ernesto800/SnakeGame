@@ -19,13 +19,13 @@ JavaScript: Aquí está toda lógica del juego, la aparición de la comida, cuan
 📦 Así está organizado el proyecto
 Para que te ubiques rápido si quieres echar un vistazo al código:
 
-.
-├── css/
-│   └── Snake.css           # Los estilos de tu juego
-├── src/
-│   ├── GeneracionCeldas.js # Este script crea todos los cuadros del tablero
-│   └── main.js             # Aquí está toda la lógica principal del Snake
-├── index.html              # La página principal del juego
+── Snake.css           # Los estilos de tu juego
+
+── GeneracionCeldas.js # Este script crea todos los cuadros del tablero
+
+── main.js             # Aquí está toda la lógica principal del Snake
+
+── index.html          # La página principal del juego
 
 ------------------------------------------------
 
