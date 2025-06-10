@@ -40,7 +40,7 @@ Lleva la cuenta de tu puntuación.
 🛠️ Si quieres trastear con el código
 Si te pica la curiosidad o quieres añadirle algo:
 
-Clona el proyecto: git clone https://github.com/tu-usuario/nombre-del-repo.git
+Clona el proyecto: git clone [https://github.com/tu-usuario/nombre-del-repo.git](https://github.com/Ernesto800/SnakeGame.git)
 Entra en la carpeta del juego.
 Abre index.html con tu navegador.
 ¡Listo para empezar!
