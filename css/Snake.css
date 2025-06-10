@@ -1,0 +1,34 @@
+* {
+    background-color:rgb(15, 61, 15);
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+section {
+    display: grid;
+    grid-template-columns: repeat(10, 100px);
+    justify-content: center;
+    
+}
+div{
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+    background-color: white;
+    background-color:rgb(99, 93, 93)
+}
+#puntuacion {
+    width: 100px;
+    height: auto;
+    color: white;
+}
+
+.snake {
+    background-color: red;
+}
+.food {
+    background-color: green;
+}
